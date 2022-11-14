@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ainan-Salaha
-- 📚 I’m currently learning Github, HTML
-- 👀  Ask me about Github , HTML
+- 📚 I’m currently learning Github, HTML,CSS @ Prepbytes
+- 👀  Ask me about Github , HTML , CSS
 - 🎓 I graduated in 2020 from Sea College of Engineering ,Bangalore (BE,ISE)
 - 📫 How to reach me ainansalaha77@gmail.com
 
