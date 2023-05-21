@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ainan-Salaha
-- 📚 I’m currently learning Github, HTML,CSS @ Prepbytes
-- 👀  Ask me about Github , HTML , CSS
+- 👀  Ask me about HTML , CSS , JAVASCRIPT , REACT , NODE , EXPRESS , MONGODB
 - 🎓 I graduated in 2020 from Sea College of Engineering ,Bangalore (BE,ISE)
-- 📫 How to reach me ainansalaha77@gmail.com
+- 📫 How to reach me -ainansalaha77@gmail.com
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
