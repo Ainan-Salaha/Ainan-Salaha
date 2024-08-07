@@ -4,7 +4,7 @@
 - 📫 How to reach me -ainansalaha77@gmail.com
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![nodejs](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![mongoDB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat&logo=javascript&logoColor=white) ![nodejs](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=flat&logo=node&logoColor=white) ![mongoDB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=flat&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ainan-Salaha&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ainan-Salaha&theme=midnight-purple&hide_border=false)<br/>
